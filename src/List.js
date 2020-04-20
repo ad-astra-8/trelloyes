@@ -1,7 +1,9 @@
 import React from 'react';
 import './List.css';
 import Card from './Card.js';
+
 //component list
+
 function List(props) {
     return (
         <section className="List">
